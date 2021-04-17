@@ -2,6 +2,8 @@
 
 Uma aula incrível de um projeto desenvolvido para exemplificar os tipos de data binding do Angular com [Geovana Ribeiro](https://www.linkedin.com/in/geovanasribeiro/) pela plataforma da [Digital Innovation One](https://digitalinnovation.one/sign-up?ref=QFX2ZVP4RU&utm_source=mobile&utm_campaign=invite) bootcamp Avanade Angular Developer
 
+`git clone https://github.com/4lexRossi/angular-components-architecture.git`
+
 Para consultar os slides da apresentação, acessar o link: https://drive.google.com/file/d/1Wv4BDj7YXd9mBsvTc-tBACAw0Hb-FN8U/view?usp=sharing
 
 
